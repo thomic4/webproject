@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bg{
+    background-color: black;
+}
+
+li{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+image{
+    display: block;
+    margin: auto;
+}
+a{
+    color: white;
+}
